@@ -1,0 +1,10 @@
+This is React-JS application, to start the application please run 'npm start' on root Directory 
+Below are the required components
+
+1) App (this is root component, this will be rendered on index page)
+2) Survey (this compenent is used to show Survey page , wheer user can select answers and submit survey)
+3) Report (this compenent is used to get the corresponding reports)
+
+By default server will starts on (3000) port , below is index page URL
+
+http://localhost:3000/

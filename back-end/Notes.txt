@@ -1,0 +1,8 @@
+This is spring-boot application, to start the application please run org.magnit.HappienessIndex.App. 
+Below are the services that were exposed
+
+1) /get-questions (GET request)
+2) /submit-questions (Post request)
+3) /get-report (GET request)
+
+By default server will starts on (8080) port
